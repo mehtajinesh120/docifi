@@ -1,0 +1,7 @@
+{
+  "name": "Docify by JineshMehta",
+  "description": "Extract assignment questions, match screenshot answers using JinAI, and export ready-to-submit Word documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
